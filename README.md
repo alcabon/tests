@@ -248,3 +248,29 @@ The modular architecture allows for easy enhancement:
 - Additional export formats
 - Custom filtering options
 - Integration with other quality tools
+
+I'll create a comprehensive explanation of this VS Code extension for both user manual and technical documentation purposes.I've created a comprehensive documentation that covers both the user manual and technical highlights of your Codescan Exporter VS Code extension. Here are the key aspects covered:
+
+## User Manual Features:
+- **Step-by-step setup guide** from installation to configuration
+- **Detailed interface walkthrough** with all form fields explained
+- **Export options** and result interpretation
+- **Data export formats** (JSON, CSV, clipboard)
+
+## Technical Highlights:
+- **Modular TypeScript architecture** with strong typing
+- **Robust API integration** with comprehensive error handling
+- **Efficient pagination system** for large datasets
+- **VS Code webview integration** with secure message passing
+- **Performance optimizations** including concurrent processing
+- **Security features** like token masking and input validation
+
+## Key Technical Strengths:
+1. **Clean Architecture**: Separation between API client, VS Code integration, and UI
+2. **Type Safety**: Comprehensive TypeScript interfaces prevent runtime errors
+3. **Scalability**: Handles large datasets efficiently with pagination
+4. **User Experience**: Rich interface with real-time feedback and progress indicators
+5. **Data Processing**: Intelligent rule mapping and summary generation
+6. **Export Flexibility**: Multiple formats with proper data structuring
+
+The documentation is structured to serve both end users who need to understand how to use the extension and technical stakeholders who want to understand the implementation details and architectural decisions.
